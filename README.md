@@ -2,14 +2,14 @@
 
 🧩 [**Also available as a Chrome extension**](https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn)
 
-# :sparkles: Star History :sparkles:
+# :sparkles: Issue History :sparkles:
 
-[**star-history.com**](https://star-history.com), **the missing GitHub star history graph of GitHub repos.**
+[**issue-history.twenty.com**](https://issue-history.twenty.com), **the missing GitHub Issue History graph of GitHub repos.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.issue-history.twenty.com/svg?repos=star-history/star-history&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.issue-history.twenty.com/svg?repos=star-history/star-history&type=Date" />
+  <img alt="Issue History Chart" src="https://api.issue-history.twenty.com/svg?repos=star-history/star-history&type=Date" />
 </picture>
 
 👆 **THIS** is a **`live`** chart created with the following html: 👇
@@ -21,18 +21,18 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
+      https://api.issue-history.twenty.com/svg?repos=star-history/star-history&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
+      https://api.issue-history.twenty.com/svg?repos=star-history/star-history&type=Date
     "
   />
   <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
+    alt="Issue History Chart"
+    src="https://api.issue-history.twenty.com/svg?repos=star-history/star-history&type=Date"
   />
 </picture>
 ```
@@ -78,7 +78,7 @@
 
 ## 🌠 Screenshots
 
-<a href="https://star-history.com"><img width="800px" src="https://user-images.githubusercontent.com/24653555/154391264-312b448b-f851-41bf-bb8d-4c21ec6795b6.gif" />
+<a href="https://issue-history.twenty.com"><img width="800px" src="https://user-images.githubusercontent.com/24653555/154391264-312b448b-f851-41bf-bb8d-4c21ec6795b6.gif" />
 </a>
 
 ### 🧩 [Free chrome extension](https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn)

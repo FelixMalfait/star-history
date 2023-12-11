@@ -13,7 +13,7 @@
             class="mt-12 p-8 text-4xl font-bold text-dark"
             style="font-family: 'xkcd'"
           >
-            Star History Blog
+            Issue History Blog
           </p>
           <div class="mb-4">
             <iframe

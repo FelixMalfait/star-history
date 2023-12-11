@@ -1,8 +1,8 @@
-# Star History Monthly Pick | February 2023
+# Issue History Monthly Pick | February 2023
 
-🌸 Spring has sprung (read: whaaat how is it already March) and it’s time to take a closer look at Star History’s picks for February!
+🌸 Spring has sprung (read: whaaat how is it already March) and it’s time to take a closer look at Issue History’s picks for February!
 
-In case you didn’t know, each month Star History picks out some of the most fascinating open-source projects that we share over [@StarHistoryHQ](https://twitter.com/StarHistoryHQ), and also tries to explore the stories behind these projects.
+In case you didn’t know, each month Issue History picks out some of the most fascinating open-source projects that we share over [@StarHistoryHQ](https://twitter.com/StarHistoryHQ), and also tries to explore the stories behind these projects.
 
 ## Kruise
 
@@ -62,13 +62,13 @@ Say you want to query the GitHub or Twitter accounts of HN users that have comme
 
 ## Last but not least
 
-🍾 Star History is happy to welcome [Ockam](/blog/ockam) as our first [GitHub Sponsor](https://github.com/sponsors/star-history).
+🍾 Issue History is happy to welcome [Ockam](/blog/ockam) as our first [GitHub Sponsor](https://github.com/sponsors/star-history).
 
-Rest assured, Star History's monthly recaps will remain neutral: we will continue to explore the most interesting open-source projects, and there's no sponsored content in this section.
+Rest assured, Issue History's monthly recaps will remain neutral: we will continue to explore the most interesting open-source projects, and there's no sponsored content in this section.
 
 And - make sure to check out our previous round-ups:
 
-1. [Star History Monthly Pick | January 2023](/blog/star-history-monthly-pick-202301)
+1. [Issue History Monthly Pick | January 2023](/blog/star-history-monthly-pick-202301)
 2. [Open Source Best of 2022 - Front-end](/blog/star-history-yearly-pick-2022-frontend)
 3. [Open Source Best of 2022 - Data, Infra & DevTools](/blog/star-history-yearly-pick-2022-data-infra-devtools)
 4. [Open Source Best of 2022 - Platform Engineering](/blog/star-history-open-source-2022-platform-engineering)

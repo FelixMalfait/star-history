@@ -1,4 +1,4 @@
-# Star History Monthly Pick | May 2023
+# Issue History Monthly Pick | May 2023
 
 This month's collection didn't start with a specific topic in mind, but looking back it seems they are not your usual hardcore GitHub projects for developers, but rather, can also be used by non-tech (or not-so tech-savy) people. Call me biased, but as a non-developer myself, it's always nice to find inspiring projects that I can get started with to make my life easier.
 
@@ -10,7 +10,7 @@ Windmill Hub is a place where users share script templates that others can reuse
 
 ![windmill-hub](/blog/assets/star-history-monthly-pick-202305/windmill-hub.webp)
 
-Apparently, a user [submitted](https://news.ycombinator.com/item?id=35920082) Windmill to HN a month ago, which is also reflected in their star history (will you look at that spike).
+Apparently, a user [submitted](https://news.ycombinator.com/item?id=35920082) Windmill to HN a month ago, which is also reflected in their Issue History (will you look at that spike).
 
 ![windmill-hn](/blog/assets/star-history-monthly-pick-202305/windmill-hn.webp)
 
@@ -56,4 +56,4 @@ SeaORM's organization is called SeaQL (bonus points for the pun), and all of the
 
 ![star-history](/blog/assets/star-history-monthly-pick-202305/star-history.webp)
 
-All of these projects are so different and have completely different origin stories, and even their Star History trends, but isn't that what's fascinating?! And, if you come across any interesting tools, make sure to let us know [@StarHistoryHQ](https://twitter.com/StarHistoryHQ)! 👻
+All of these projects are so different and have completely different origin stories, and even their Issue History trends, but isn't that what's fascinating?! And, if you come across any interesting tools, make sure to let us know [@StarHistoryHQ](https://twitter.com/StarHistoryHQ)! 👻

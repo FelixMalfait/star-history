@@ -1,4 +1,4 @@
-# Star History Monthly Pick | June 2023
+# Issue History Monthly Pick | June 2023
 
 Last month's [post](/blog/star-history-monthly-pick-202305) was for marketers and analysts, but this issue returns to the DevTools category. In June, we discovered quite a few great tools for you devs!
 
@@ -65,4 +65,4 @@ Inngest just [announced](https://techcrunch.com/2023/07/12/inngest-helps-develop
 
 ![sqlpad-editor](/blog/assets/star-history-monthly-pick-202306/sqlpad-editor.webp)
 
-From the star history of this project, you can tell that it is a few years old. The author mentioned in the README that SQLPad is currently in maintenance mode and will provide security updates and critical bug fixes as needed. Interestingly though, the stars continue to grow at almost the same speed as before, what does this say about SQLPad? 🤔
+From the Issue History of this project, you can tell that it is a few years old. The author mentioned in the README that SQLPad is currently in maintenance mode and will provide security updates and critical bug fixes as needed. Interestingly though, the stars continue to grow at almost the same speed as before, what does this say about SQLPad? 🤔

@@ -1,6 +1,6 @@
-# Star History Monthly Pick | CLI tools for working with LLMs
+# Issue History Monthly Pick | CLI tools for working with LLMs
 
-Hey all, welcome to the August edition of Star History Monthly! This time we are taking a look at a few open-source CLI tools for working with ChatGPT and other LLMs.
+Hey all, welcome to the August edition of Issue History Monthly! This time we are taking a look at a few open-source CLI tools for working with ChatGPT and other LLMs.
 
 The inspiration for this topic actually came from [this Tweet](https://twitter.com/hellokillian/status/1699540666953629722). 
 
@@ -53,7 +53,7 @@ Another cool thing is that you can start a prompt simply with a capital letter. 
 
 ## Lastly
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KillianLucas/open-interpreter,simonw/llm,Pythagora-io/gpt-pilot,paul-gauthier/aider,bakks/butterfish&type=Date)](https://star-history.com/#KillianLucas/open-interpreter&simonw/llm&Pythagora-io/gpt-pilot&paul-gauthier/aider&bakks/butterfish&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=KillianLucas/open-interpreter,simonw/llm,Pythagora-io/gpt-pilot,paul-gauthier/aider,bakks/butterfish&type=Date)](https://issue-history.twenty.com/#KillianLucas/open-interpreter&simonw/llm&Pythagora-io/gpt-pilot&paul-gauthier/aider&bakks/butterfish&Date)
 
 All these aforementioned tools emerged somewhere this year - and have all undoubtedly gained momentum thanks to the rapid growth of LLMs. These have taken a "mere GUI for LLM" to the next level, accomplishing all sorts of tasks from tweaking a computer setting to building simple apps. Are developers going to be out of jobs? Is coding soon no longer required? Obviously, these tools can change the game for the software industry, but you still need to be good at coding: an unskilled person powered by such a tool can slowly construct a codebase that's unmaintainable. 
 

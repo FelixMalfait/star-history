@@ -1,4 +1,4 @@
-# Star History Monthly | Open-source GitHub Copilot alternatives
+# Issue History Monthly | Open-source GitHub Copilot alternatives
 
 One of the places where AI has made a major breakthrough is in helping with coding. Who doesn't like a productivity boost? For software development at least, generative AI is definitely the new standard. 
 
@@ -70,7 +70,7 @@ What do you think? Are you using any AI coding assistants at all? What's the key
 
 ---
 
-## Star History Monthly Previous Editions
+## Issue History Monthly Previous Editions
 
 - [CLI Tools for Working with LLMs](/blog/cli-tool-for-llm)
 - [Llama 2 and Ecosystem](/blog/llama2)

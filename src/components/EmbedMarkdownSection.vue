@@ -68,9 +68,9 @@ const repoText = computed(() => {
 });
 
 const embedCode = computed(() => {
-  return `## Star History
+  return `## Issue History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=${store.repos.join(
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=${store.repos.join(
     ","
   )}&type=${store.chartMode})](${window.location.href})
 `;
@@ -79,13 +79,13 @@ const embedCode = computed(() => {
 const embedDarkModeCode = computed(() => {
   let repos = store.repos.join(",");
   let type = store.chartMode;
-  return `## Star History
+  return `## Issue History
 
 <a href="${window.location.href}">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=${repos}&type=${type}&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=${repos}&type=${type}" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=${repos}&type=${type}" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.issue-history.twenty.com/svg?repos=${repos}&type=${type}&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.issue-history.twenty.com/svg?repos=${repos}&type=${type}" />
+    <img alt="Issue History Chart" src="https://api.issue-history.twenty.com/svg?repos=${repos}&type=${type}" />
   </picture>
 </a>
 `;

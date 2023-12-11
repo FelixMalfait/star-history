@@ -12,14 +12,8 @@ export const drawWatermark = (
     .append("text")
     .style("font-size", "16px")
     .style("fill", "#666666")
-    .attr("transform", `translate(${chartWidth - 50},${chartHeight + 40})`)
+    .attr("transform", `translate(${chartWidth - 55},${chartHeight + 40})`)
     .attr("text-anchor", "middle")
-    .text("star-history.com");
+    .text("issue-history.twenty.com");
 
-  selection
-    .append("image")
-    .attr("transform", `translate(${chartWidth - 135},${chartHeight + 24})`)
-    .attr("height", 20)
-    .attr("width", 20)
-    .attr("href", iconBase64);
 };

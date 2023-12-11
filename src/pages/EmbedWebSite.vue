@@ -52,7 +52,7 @@ const state = reactive<State>({
 });
 const containerElRef = ref<HTMLDivElement | null>(null);
 const starHistoryLink = computed(() => {
-  return `https://star-history.com/#${state.repos.join("&")}&${
+  return `https://issue-history.twenty.com/#${state.repos.join("&")}&${
     state.chartMode
   }`;
 });

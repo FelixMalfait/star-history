@@ -1,6 +1,6 @@
-# Star History Open Source Best of 2022 | Front-end
+# Issue History Open Source Best of 2022 | Front-end
 
-As a proper goodbye to 2022, Star History looks at some of the most interesting open-source projects in the year that passed. Some projects came out of nowhere and made a big bang; some released new versions, while some renovated their websites.
+As a proper goodbye to 2022, Issue History looks at some of the most interesting open-source projects in the year that passed. Some projects came out of nowhere and made a big bang; some released new versions, while some renovated their websites.
 
 In today’s post, we are covering front-end projects.
 
@@ -136,7 +136,7 @@ That’s it for the top front-end projects. Stay tuned for the next round-up, wh
 
 ---
 
-This is part of Star History Open Source 2022 series, you can continue with:
+This is part of Issue History Open Source 2022 series, you can continue with:
 
 1. [Open Source Best of 2022 - Data, Infra & DevTools](/blog/star-history-yearly-pick-2022-data-infra-devtools)
 1. [Open Source Best of 2022 - Platform Engineering](/blog/star-history-open-source-2022-platform-engineering)

@@ -49,7 +49,7 @@ Dify can be widely applied to various AI app scenarios:
 
 After open sourcing on [GitHub](https://github.com/langgenius/dify), Dify.AI quickly gained a lot of developer's attention. 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=langgenius/dify&type=Date)](https://star-history.com/#langgenius/dify&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=langgenius/dify&type=Date)](https://issue-history.twenty.com/#langgenius/dify&Date)
 
 ## How to quickly create apps with Dify
 

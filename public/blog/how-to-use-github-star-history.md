@@ -1,4 +1,4 @@
-# 📕 How to use GitHub Star History
+# 📕 How to use GitHub Issue History
 
 When choosing a tool (especially an open-source one) to use, what's your thought process? What are the factors that matter to you?
 
@@ -12,20 +12,20 @@ We know, you can't fully trust a project's GitHub stars alone. It is, however, a
 
 ![book](/blog/assets/how-to-use-github-star-history/book.webp)
 
-Even if a project has hundreds of millions of stars now, doesn't mean that it's still gaining popularity or maintained. Or if the project had an explosive breakout in the past? There's no way of knowing these simply from gazing at the stars count. Here's when Star History comes in handy: it shows how the number of GitHub stars of a project is increasing over the years. And - it's free and [open-source](https://github.com/star-history/star-history).
+Even if a project has hundreds of millions of stars now, doesn't mean that it's still gaining popularity or maintained. Or if the project had an explosive breakout in the past? There's no way of knowing these simply from gazing at the stars count. Here's when Issue History comes in handy: it shows how the number of GitHub stars of a project is increasing over the years. And - it's free and [open-source](https://github.com/star-history/star-history).
 
 ## User Manual
 
 ![user-manual](/blog/assets/how-to-use-github-star-history/user-manual.webp)
 
-It's just a simple search box, how hard could it be? Simplicity is indeed Star History's No 1 design principal. On the other hand, it also provides some handy features for power users. Below we will show you:
+It's just a simple search box, how hard could it be? Simplicity is indeed Issue History's No 1 design principal. On the other hand, it also provides some handy features for power users. Below we will show you:
 
 - How to add a repo using 3 different formats.
 - How to add multiple repos.
 - How to align the timeline to compare multiple repos.
 - How to temporality show/hide a repo in the chart.
 - How to add your GitHub personal access token to remove GitHub API limits.
-- How to embed a live star history chart inside your GitHub project [README.md](http://README.md).
+- How to embed a live Issue History chart inside your GitHub project [README.md](http://README.md).
 - And don't forget we also have a [chrome extension](https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn).
 
 ### How to add a repo using 3 different formats
@@ -62,7 +62,7 @@ Instead of removing a repo from the chart, you can switch visibility of it by cl
 
 ### How to add your GitHub personal access token to remove GitHub API limits
 
-Star History is free to use, but it uses GitHub API to retrieve repository metadata, which means you need to add your personal access token from GitHub to start using Star History. Rest assured, no personal data is needed in this process.
+Issue History is free to use, but it uses GitHub API to retrieve repository metadata, which means you need to add your personal access token from GitHub to start using Issue History. Rest assured, no personal data is needed in this process.
 ![home-add-access-token](/blog/assets/how-to-use-github-star-history/add-access-token.webp)
 
 1. Login to your GitHub account, go to Personal Access Tokens: [https://github.com/settings/tokens](https://github.com/settings/tokens).
@@ -76,7 +76,7 @@ Star History is free to use, but it uses GitHub API to retrieve repository metad
 
 - Note: give it a name for identification.
 - Expiration: how long should it be valid for?
-- Select scopes: access boundary for this token, for Star History, **repo** access will do.
+- Select scopes: access boundary for this token, for Issue History, **repo** access will do.
 
 When you are done, click **Generate token** at the bottom of the page.
 
@@ -86,11 +86,11 @@ When you are done, click **Generate token** at the bottom of the page.
 
 ![personal-token-copy](/blog/assets/how-to-use-github-star-history/personal-token-copy.webp)
 
-6. Go back to [star-history.com](/), and click **Edit Access Token**. Paste the token. (It's also where you edit in the future, when it expires and you'll need to generate a new one.) Hit **Save**, et voilà, the star history of all GitHub repos are at your fingertips. Simple as that.
+6. Go back to [issue-history.twenty.com](/), and click **Edit Access Token**. Paste the token. (It's also where you edit in the future, when it expires and you'll need to generate a new one.) Hit **Save**, et voilà, the Issue History of all GitHub repos are at your fingertips. Simple as that.
 
 ![edit-gh-access-token](/blog/assets/how-to-use-github-star-history/edit-gh-access-token.webp)
 
-### How to embed a live star history chart inside your GitHub project [README.md](http://README.md)
+### How to embed a live Issue History chart inside your GitHub project [README.md](http://README.md)
 
 1. Click **Embed** below the chart.
 

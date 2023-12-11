@@ -1,7 +1,7 @@
 import axios from "axios";
 import utils from "./utils";
 
-const DEFAULT_PER_PAGE = 30;
+const DEFAULT_PER_PAGE = 100;
 
 namespace api {
   export async function getRepoStargazers(
@@ -9,28 +9,41 @@ namespace api {
     token?: string,
     page?: number
   ) {
-    let url = `https://api.github.com/repos/${repo}/stargazers?per_page=${DEFAULT_PER_PAGE}`;
+    let url = `https://api.github.com/repos/${repo}/issues?state=closed&pulls=false&per_page=${DEFAULT_PER_PAGE}`;
 
     if (page !== undefined) {
       url = `${url}&page=${page}`;
     }
     return axios.get(url, {
       headers: {
-        Accept: "application/vnd.github.v3.star+json",
+        Accept: "application/vnd.github.v3+json",
         Authorization: token ? `token ${token}` : "",
       },
     });
   }
 
   export async function getRepoStargazersCount(repo: string, token?: string) {
-    const { data } = await axios.get(`https://api.github.com/repos/${repo}`, {
-      headers: {
-        Accept: "application/vnd.github.v3.star+json",
-        Authorization: token ? `token ${token}` : "",
-      },
-    });
+    const { data } = await axios.get(
+      `https://api.github.com/search/issues?q=repo:${repo}+is:pull-request+state:closed&per_page=1`,
+      {
+        headers: {
+          Accept: "application/vnd.github.v3+json",
+          Authorization: token ? `token ${token}` : "",
+        },
+      }
+    );
 
-    return data.stargazers_count;
+    const data2 = await axios.get(
+      `https://api.github.com/search/issues?q=repo:${repo}+is:issue+state:closed&per_page=1`,
+      {
+        headers: {
+          Accept: "application/vnd.github.v3+json",
+          Authorization: token ? `token ${token}` : "",
+        },
+      }
+    );
+
+    return data.total_count + data2.data.total_count;
   }
 
   export async function getRepoStarRecords(
@@ -76,29 +89,37 @@ namespace api {
       })
     );
 
+
     const starRecordsMap: Map<string, number> = new Map();
 
     if (requestPages.length < maxRequestAmount) {
       const starRecordsData: {
-        starred_at: string;
+        closed_at: string;
       }[] = [];
       resArray.map((res) => {
         const { data } = res;
         starRecordsData.push(...data);
       });
+
+      starRecordsData.sort(
+        (a, b) =>
+          new Date(a.closed_at).getTime() - new Date(b.closed_at).getTime()
+      );
+
       for (let i = 0; i < starRecordsData.length; ) {
         starRecordsMap.set(
-          utils.getDateString(starRecordsData[i].starred_at),
+          utils.getDateString(starRecordsData[i].closed_at),
           i + 1
         );
         i += Math.floor(starRecordsData.length / maxRequestAmount) || 1;
       }
     } else {
+      console.log("Max request amount reached");
       resArray.map(({ data }, index) => {
         if (data.length > 0) {
           const starRecord = data[0];
           starRecordsMap.set(
-            utils.getDateString(starRecord.starred_at),
+            utils.getDateString(starRecord.closed_at),
             DEFAULT_PER_PAGE * (requestPages[index] - 1)
           );
         }
@@ -120,6 +141,10 @@ namespace api {
       });
     });
 
+    starRecords.sort(
+      (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+    );
+
     return starRecords;
   }
 
@@ -130,7 +155,7 @@ namespace api {
     const owner = repo.split("/")[0];
     const { data } = await axios.get(`https://api.github.com/users/${owner}`, {
       headers: {
-        Accept: "application/vnd.github.v3.star+json",
+        Accept: "application/vnd.github.v3+json",
         Authorization: token ? `token ${token}` : "",
       },
     });

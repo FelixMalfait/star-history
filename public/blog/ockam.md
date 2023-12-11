@@ -1,6 +1,6 @@
-# Star History x Ockam
+# Issue History x Ockam
 
-🍾️ Welcome Ockam as Star History's first [GitHub Sponsor](https://github.com/sponsors/star-history).
+🍾️ Welcome Ockam as Issue History's first [GitHub Sponsor](https://github.com/sponsors/star-history).
 
 [Ockam](https://github.com/build-trust/ockam) is a suite of open source tools, programming libraries, and managed cloud services to orchestrate end-to-end encryption, mutual authentication, key management, credential management, and authorization policy enforcement – at massive scale.
 

@@ -6,19 +6,19 @@ This is a quote from a previous Bytebase (our main hustle) blog, "[How to cross 
 
 ![reddit comment](/blog/assets/star-history-monthly-pick-202212/reddit-comment.webp)
 
-While stars are not the most important metric for open-source projects, star history is a way to measure trends in a project such as whether it is maintained over time, whether it works, and how well it is recognized.
+While stars are not the most important metric for open-source projects, Issue History is a way to measure trends in a project such as whether it is maintained over time, whether it works, and how well it is recognized.
 
 Every day (well, almost) we share some interesting open-source projects on the [@StarHistoryHQ](https://twitter.com/StarHistoryHQ) Twitter account.
 
 Each month, we will select some of these projects and make a collection. DM us if you'd like to see your project featured! 🤓
 
-![star history twitter](/blog/assets/star-history-monthly-pick-202212/star-history-twitter.webp)
+![Issue History twitter](/blog/assets/star-history-monthly-pick-202212/star-history-twitter.webp)
 
 ## ✍️ memos
 
 [https://github.com/usememos/memos](https://github.com/usememos/memos)
 
-![memos star history](/blog/assets/star-history-monthly-pick-202212/star-history-20221214-memos.webp)
+![memos Issue History](/blog/assets/star-history-monthly-pick-202212/star-history-20221214-memos.webp)
 
 memos is a lightweight notebook/knowledge base that supports private deployments to quickly jot down your ideas, and also supports recording and sharing like Twitter.
 
@@ -40,15 +40,15 @@ StepCI is a CI tool that can help you test and monitor your (numerous) APIs.
 
 ![stepci demo](/blog/assets/star-history-monthly-pick-202212/stepci-demo.webp)
 
-What's remarkable is that their star history graph also looks like a step ;)
+What's remarkable is that their Issue History graph also looks like a step ;)
 
-![stepci star history](/blog/assets/star-history-monthly-pick-202212/star-history-2022121-stepci.webp)
+![stepci Issue History](/blog/assets/star-history-monthly-pick-202212/star-history-2022121-stepci.webp)
 
 ## GreptimeDB
 
 [https://github.com/GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
 
-![greptimedb star history](/blog/assets/star-history-monthly-pick-202212/star-history-20221214-greptimedb.webp)
+![greptimedb Issue History](/blog/assets/star-history-monthly-pick-202212/star-history-20221214-greptimedb.webp)
 
 GreptimeDB (again, as its name suggests) is a distributed time-series database.
 
@@ -60,7 +60,7 @@ From the [internal design doc](https://greptime.com/blogs/2022-12-08-GreptimeDB-
 
 [https://github.com/duckdb/duckdb](https://github.com/duckdb/duckdb)
 
-![duckdb star history](/blog/assets/star-history-monthly-pick-202212/star-history-20221214-duckdb.webp)
+![duckdb Issue History](/blog/assets/star-history-monthly-pick-202212/star-history-20221214-duckdb.webp)
 
 (Curious about what happened in late 2020 tho)
 

@@ -1,4 +1,4 @@
-# Star History open-source Best of 2022 | open-source Alternatives
+# Issue History open-source Best of 2022 | open-source Alternatives
 
 When choosing which tools to use, do you prefer open or closed-source? What are the differences? In this post, let’s take a look at some of the most famous open-source alternatives on the market.
 
@@ -121,13 +121,13 @@ When comparing similar open or closed-source tools, since most open-source produ
 - The community is vibrant and more open: you can choose your own configuration and request features.
 - In addition, even if the open-source product is no longer maintained, you can still use it (maybe even better it).
 
-And last but not least, this concludes Star History’s 2022 open-source picks. We had fun browsing through the projects and learning about the different background stories, hope you enjoy it just as much as we did.
+And last but not least, this concludes Issue History’s 2022 open-source picks. We had fun browsing through the projects and learning about the different background stories, hope you enjoy it just as much as we did.
 
 See y’all next year. 👋
 
 ---
 
-This is part of Star History Open Source 2022 series, you can continue with:
+This is part of Issue History Open Source 2022 series, you can continue with:
 
 1. [Open Source Best of 2022 - Front-end](/blog/star-history-yearly-pick-2022-frontend)
 1. [Open Source Best of 2022 - Data, Infra & DevTools](/blog/star-history-yearly-pick-2022-data-infra-devtools)

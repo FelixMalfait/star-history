@@ -1,4 +1,4 @@
-*This is the second issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the second issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -70,4 +70,4 @@ In the figure above, we opened a video showing a street, sampled it by taking a 
 
 DLTA-AI is still very young, but looks like it's been growing steadily since its open-source (April, 2023, which was only a few months ago!). Good luck, folks!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=0ssamaak0/DLTA-AI&type=Date)](https://star-history.com/#0ssamaak0/DLTA-AI&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=0ssamaak0/DLTA-AI&type=Date)](https://issue-history.twenty.com/#0ssamaak0/DLTA-AI&Date)

@@ -43,8 +43,6 @@
         href="https://chrome.google.com/webstore/detail/iijibbcdddbhokfepbblglfgdglnccfn"
         target="_blank"
       >
-        <img class="w-5 h-auto mr-1" src="/icons/free.svg" />
-        <span class="text-dark">Get Chrome Extension</span>
       </a>
     </div>
     <div class="flex flex-row flex-wrap justify-end items-center mb-2">
@@ -56,6 +54,7 @@
         <i class="fas fa-download"></i>
         Image
       </button>
+      <!--
       <button
         class="ml-2 mb-2 rounded leading-9 text-sm px-3 cursor-pointer border text-dark bg-gray-100 hover:bg-gray-200"
         @click="handleExportAsCSVBtnClick"
@@ -63,6 +62,7 @@
         <i class="fas fa-download"></i>
         CSV
       </button>
+
       <button
         class="ml-2 mb-2 rounded leading-9 text-sm px-3 cursor-pointer border text-dark bg-gray-100 hover:bg-gray-200"
         @click="handleGenEmbedCodeDialogBtnClick"
@@ -70,6 +70,7 @@
         <i class="fas fa-code"></i>
         Embed
       </button>
+      -->
       <button
         class="ml-2 mb-2 rounded leading-9 text-sm px-3 cursor-pointer border text-dark bg-gray-100 hover:bg-gray-200"
         @click="handleCopyLinkBtnClick"
@@ -77,6 +78,7 @@
         <i class="far fa-copy"></i>
         Link
       </button>
+      <!--
       <button
         class="shadow-inner ml-2 mb-2 rounded leading-9 px-4 cursor-pointer bg-green-600 border border-transparent text-white hover:bg-green-700"
         @click="handleShareToTwitterBtnClick"
@@ -84,25 +86,11 @@
         <i class="relative -bottom-px fab fa-twitter"></i>
         Share on Twitter
       </button>
+      -->
     </div>
   </div>
-  <EmbedMarkdownSection v-if="state.chartData"></EmbedMarkdownSection>
+  <!--<EmbedMarkdownSection v-if="state.chartData"></EmbedMarkdownSection>-->
   <div class="grow"></div>
-  <div class="mb-12">
-    <iframe
-      src="https://embeds.beehiiv.com/2803dbaa-d8dd-4486-8880-4b843f3a7da6?slim=true"
-      data-test-id="beehiiv-embed"
-      height="52"
-      frameborder="0"
-      scrolling="no"
-      style="
-        margin: 0;
-        border-radius: 0px !important;
-        background-color: transparent;
-      "
-    ></iframe>
-  </div>
-  <BytebaseBanner v-if="state.chartData" />
   <TokenSettingDialog
     v-if="state.showSetTokenDialog"
     @close="handleSetTokenDialogClose"
@@ -127,7 +115,6 @@ import { convertDataToChartData, getRepoData } from "../../common/chart";
 import api from "../../common/api";
 import toast from "../helpers/toast";
 import { RepoData } from "../../types/chart";
-import BytebaseBanner from "./SponsorView.vue";
 import StarXYChart from "./Charts/StarXYChart.vue";
 import TokenSettingDialog from "./TokenSettingDialog.vue";
 import GenerateEmbedCodeDialog from "./GenerateEmbedCodeDialog.vue";

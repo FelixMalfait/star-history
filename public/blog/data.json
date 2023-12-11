@@ -9,7 +9,7 @@
     "excerpt": "Earthly is like a combination of Docker and Make, running build scripts in Docker containers for consistent results in any environment."
  },
   {
-    "title": "Star History Monthly Oct 2023 | Open-source AI Extensions for Postgres",
+    "title": "Issue History Monthly Oct 2023 | Open-source AI Extensions for Postgres",
     "slug": "ai-for-postgres",
     "author": "Mila",
     "featured": true,
@@ -36,7 +36,7 @@
     "excerpt": "libSQL is an Open Source and Open Contribution fork of SQLite"
  },
   {
-    "title": "Star History Monthly Sep 2023 | Open-source GitHub Copilot alternatives",
+    "title": "Issue History Monthly Sep 2023 | Open-source GitHub Copilot alternatives",
     "slug": "coding-ai",
     "author": "Mila",
     "featured": true,
@@ -81,7 +81,7 @@
     "excerpt": "Fresh open-sourced by Microsoft, Prompt flow is a suite of devtools designed to streamline the end-to-end development cycle of LLM-based AI applications."
   },
   {
-    "title": "Star History Monthly Pick | CLI Tools for Working with LLMs",
+    "title": "Issue History Monthly Pick | CLI Tools for Working with LLMs",
     "slug": "cli-tool-for-llm",
     "author": "Mila",
     "featured": true,
@@ -126,7 +126,7 @@
     "excerpt": "A team that just launched an open source tool for developers shares their first-hand experience on how to grow your own project."
   },
   {
-    "title": "Star History Monthly Pick | Llama 2 and Ecosystem Edition",
+    "title": "Issue History Monthly Pick | Llama 2 and Ecosystem Edition",
     "slug": "llama2",
     "author": "Mila",
     "featured": true,
@@ -171,7 +171,7 @@
     "excerpt": "DLTA-AI is the next generation of annotation tools, integrating the Computer Vision SOTA models to Labelme in a seamless expirence and intuitive workflow to make creating image datasets easier than ever before."
   },
   {
-    "title": "Star History Monthly Pick | June 2023",
+    "title": "Issue History Monthly Pick | June 2023",
     "slug": "star-history-monthly-pick-202306",
     "author": "Mila",
     "featured": true,
@@ -198,7 +198,7 @@
     "excerpt": "List your open source project to be seen by thousands of visitors every month."
   },  
   {
-    "title": "Star History Monthly Pick | May 2023",
+    "title": "Issue History Monthly Pick | May 2023",
     "slug": "star-history-monthly-pick-202305",
     "author": "Mila",
     "featured": true,
@@ -216,7 +216,7 @@
     "excerpt": "A shortlist of open-source infra projects for your next AI project."
   },  
   {
-    "title": "Star History Monthly Pick | April 2023",
+    "title": "Issue History Monthly Pick | April 2023",
     "slug": "star-history-monthly-pick-202304",
     "author": "Mila",
     "featured": true,
@@ -243,7 +243,7 @@
     "excerpt": "Tabby is an AI coding assistant that's designed as an open-source tool to help developers code faster. Think of it as an open-source/on-prem alternative to GitHub Copilot."
   },
   {
-    "title": "Star History Monthly Pick | March 2023 / ChatGPT Edition",
+    "title": "Issue History Monthly Pick | March 2023 / ChatGPT Edition",
     "slug": "star-history-monthly-pick-202303",
     "author": "Mila",
     "featured": true,
@@ -252,7 +252,7 @@
     "excerpt": "ChatGPT is getting all the heat these days, and the new trend in the DevTools department seems to be ChatGPT-based. We are taking a look at a few handy AI-enhanced tools to make your life easier."
   },  
   {
-    "title": "Star History Monthly Pick | February 2023",
+    "title": "Issue History Monthly Pick | February 2023",
     "slug": "star-history-monthly-pick-202302",
     "author": "Mila",
     "featured": true,
@@ -270,7 +270,7 @@
     "excerpt": "Ockam is a suite of open source tools, programming libraries, and managed cloud services to orchestrate end-to-end encryption, mutual authentication, key management, credential management, and authorization policy enforcement – at massive scale."
   },
   {
-    "title": "📕 How to use GitHub Star History",
+    "title": "📕 How to use GitHub Issue History",
     "slug": "how-to-use-github-star-history",
     "author": "Mila",
     "featureImage": "/blog/assets/how-to-use-github-star-history/how-to-use-github-star-history.webp",
@@ -278,7 +278,7 @@
     "excerpt": "When choosing a tool (especially an open-source one) to use, what's your thought process? What are the factors that matter to you?"
   },
   {
-    "title": "Star History Monthly Pick | January 2023",
+    "title": "Issue History Monthly Pick | January 2023",
     "slug": "star-history-monthly-pick-202301",
     "author": "Mila",
     "featured": true,
@@ -287,7 +287,7 @@
     "excerpt": "Some of the most fascinating open-source projects and the stories behind these projects we discovered over the past month."
   },
   {
-    "title": "Star History Open Source Best of 2022 | Open-Source Alternatives",
+    "title": "Issue History Open Source Best of 2022 | Open-Source Alternatives",
     "slug": "star-history-open-source-2022-open-source-alternatives",
     "author": "Mila",
     "featured": true,
@@ -296,40 +296,40 @@
     "excerpt": "When choosing which tools to use, do you prefer open or closed-source? What are the differences? In this post, let’s take a look at some of the most famous open-source alternatives on the market."
   },
   {
-    "title": "Star History Open Source Best of 2022 | Platform Engineering",
+    "title": "Issue History Open Source Best of 2022 | Platform Engineering",
     "slug": "star-history-open-source-2022-platform-engineering",
     "author": "Mila",
     "featured": true,
     "featureImage": "/blog/assets/yearly-pick-platform-engineering-2022/star-history-platform-engineering-2022.webp",
     "publishedDate": "2023-01-19T09:50:06.000Z",
-    "excerpt": "Platform Engineering continues to rise in popularity in 2022 and is also featured in the Gartner Hype Cycle for Software Engineering 2022. In this post, Star History picks out 10 open-source projects in the category Platform Engineering."
+    "excerpt": "Platform Engineering continues to rise in popularity in 2022 and is also featured in the Gartner Hype Cycle for Software Engineering 2022. In this post, Issue History picks out 10 open-source projects in the category Platform Engineering."
   },
   {
-    "title": "Star History Open Source Best of 2022 | Data, Infra & DevTools",
+    "title": "Issue History Open Source Best of 2022 | Data, Infra & DevTools",
     "slug": "star-history-yearly-pick-2022-data-infra-devtools",
     "author": "Mila",
     "featured": true,
     "featureImage": "/blog/assets/yearly-pick-data-infra-devtools-2022/yearly-pick-data-infra-devtools-2022.webp",
     "publishedDate": "2023-01-11T09:50:06.000Z",
-    "excerpt": "Following up on the previous roundup of top front-end os projects, Star History looks at some of the lesser known open-source projects under the category of data/infra/tools in 2022."
+    "excerpt": "Following up on the previous roundup of top front-end os projects, Issue History looks at some of the lesser known open-source projects under the category of data/infra/tools in 2022."
   },
   {
-    "title": "Star History Open Source Best of 2022 | Front-end",
+    "title": "Issue History Open Source Best of 2022 | Front-end",
     "slug": "star-history-yearly-pick-2022-frontend",
     "author": "Mila",
     "featured": true,
     "featureImage": "/blog/assets/yearly-pick-frontend-2022/star-history-frontend-2022.webp",
     "publishedDate": "2023-01-04T09:50:06.000Z",
-    "excerpt": "As a proper goodbye to 2022, Star History picks some of the most interesting open-source front-end projects in 2022."
+    "excerpt": "As a proper goodbye to 2022, Issue History picks some of the most interesting open-source front-end projects in 2022."
   }, 
   {
-    "title": "Star History Monthly Pick | December 2022",
+    "title": "Issue History Monthly Pick | December 2022",
     "slug": "star-history-monthly-pick-202212",
     "author": "Mila",
     "featured": true,
     "featureImage": "/blog/assets/star-history-monthly-pick-202212/star-history-202212.webp",
     "publishedDate": "2022-12-14T09:50:06.000Z",
-    "excerpt": "A few open-source projects for December 2022, hand-picked by the Star History team."
+    "excerpt": "A few open-source projects for December 2022, hand-picked by the Issue History team."
   },
   {
     "title": "Re: GitHub's plan to remove Trending tab",
@@ -347,15 +347,15 @@
     "featured": true,
     "featureImage": "/blog/assets/star-history-in-github-readme.png",
     "publishedDate": "2022-03-21T09:39:06.000Z",
-    "excerpt": "Now we support embedding a live star history chart into your GitHub README. This feature is quite handy. A snippet would appear after querying the repository from our star-history.com main page; the only thing you need to do is simply copy that snippet into your GitHub README markdown file."
+    "excerpt": "Now we support embedding a live Issue History chart into your GitHub README. This feature is quite handy. A snippet would appear after querying the repository from our issue-history.twenty.com main page; the only thing you need to do is simply copy that snippet into your GitHub README markdown file."
   },
   {
-    "title": "Introducing the new star-history.com",
+    "title": "Introducing the new issue-history.twenty.com",
     "slug": "introducing-the-new-star-history-com",
     "author": "Steven",
     "featured": true,
     "featureImage": "/blog/assets/star-history.png",
     "publishedDate": "2022-01-21T09:13:05.000Z",
-    "excerpt": "After a month of hard work, we are happy to introduce you to the new star-history.com. It has been rebuilt using a modern tech stack while keeping the original sketching / xkcd feel. Besides, we have added several highly requested features..."
+    "excerpt": "After a month of hard work, we are happy to introduce you to the new issue-history.twenty.com. It has been rebuilt using a modern tech stack while keeping the original sketching / xkcd feel. Besides, we have added several highly requested features..."
   }
 ]

@@ -4,7 +4,7 @@
 
 ![tabby](/blog/assets/tabby/hn.webp)
 
-Looking at its GitHub star history.
+Looking at its GitHub Issue History.
 
 ![tabby](/blog/assets/tabby/tabby.webp)
 

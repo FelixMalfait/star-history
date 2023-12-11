@@ -88,7 +88,7 @@
         style="font-family: 'xkcd', serif"
       >
         <img class="w-5 h-auto mr-1" src="/icon.png" />
-        star-history.com
+        issue-history.twenty.com
       </span>
     </div>
   </div>
@@ -194,7 +194,7 @@ const handleSetTokenDialogClose = () => {
 
 const handleOpenInWebsiteBtnClick = () => {
   chrome.tabs.create({
-    url: `https://star-history.com/#${state.repo}`,
+    url: `https://issue-history.twenty.com/#${state.repo}`,
   });
 };
 </script>

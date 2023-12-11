@@ -1,4 +1,4 @@
-*This is the twelfth issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the twelfth issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -66,7 +66,7 @@ For more details, check out the docs: [https://wasp-lang.dev/docs/quick-start](h
 
 Wasp has had a pretty solid Year 2023, and in October alone we doubled our stars, growing from 4k to 8k🚀.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wasp-lang/wasp&type=Date)](https://star-history.com/#wasp-lang/wasp&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=wasp-lang/wasp&type=Date)](https://issue-history.twenty.com/#wasp-lang/wasp&Date)
 
 If you'd like to learn more and try out Wasp for yourself, visit our site!
 

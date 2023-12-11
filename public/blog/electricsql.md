@@ -1,4 +1,4 @@
-*This is the ninth issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the ninth issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 # Electric SQL - Build reactive, realtime, local-first apps directly on Postgres.
@@ -54,4 +54,4 @@ Some demo applications:
 - Realtime demo: https://electric-sql.com/docs/intro/multi-user
 - Conflict-free offline: https://electric-sql.com/docs/intro/offline
 
-[![Star History Chart](https://api.star-history.com/svg?repos=electric-sql/electric&type=Date)](https://star-history.com/#electric-sql/electric&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=electric-sql/electric&type=Date)](https://issue-history.twenty.com/#electric-sql/electric&Date)

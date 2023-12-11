@@ -1,4 +1,4 @@
-*This is the first issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the first issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -46,9 +46,9 @@ On the [official website](https://www.sniffnet.net/download) you can find more i
 
 ## Star growth
 
-Sniffnet is a very young application, but as shown by the Star History chart it had a stunning growth during the past months.
+Sniffnet is a very young application, but as shown by the Issue History chart it had a stunning growth during the past months.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gyulyvgc/sniffnet&type=Date)](https://star-history.com/#gyulyvgc/sniffnet&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=gyulyvgc/sniffnet&type=Date)](https://issue-history.twenty.com/#gyulyvgc/sniffnet&Date)
 
 The main events that caused this astonishing growth are reported in the following:
 - in November 2022, Sniffnet first stable version was released and it was featured in the overall GitHub trending page
@@ -57,7 +57,7 @@ The main events that caused this astonishing growth are reported in the followin
 
 Sniffnet's growth is particularly impressive when compared with the other popular network analyzers, including Wireshark:
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gyulyvgc/sniffnet,wireshark/wireshark,the-tcpdump-group/tcpdump,ntop/ntopng&type=Date)](https://star-history.com/#gyulyvgc/sniffnet&wireshark/wireshark&the-tcpdump-group/tcpdump&ntop/ntopng&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=gyulyvgc/sniffnet,wireshark/wireshark,the-tcpdump-group/tcpdump,ntop/ntopng&type=Date)](https://issue-history.twenty.com/#gyulyvgc/sniffnet&wireshark/wireshark&the-tcpdump-group/tcpdump&ntop/ntopng&Date)
 
 ## Future development
 

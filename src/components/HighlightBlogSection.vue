@@ -42,23 +42,23 @@ const blogSectionList = [
     linkList: [
       {
         title: "Infra",
-        path: "https://star-history.com/blog/open-source-ai-infra-projects",
+        path: "https://issue-history.twenty.com/blog/open-source-ai-infra-projects",
       },
       {
         title: "Model",
-        path: "https://star-history.com/#CompVis/stable-diffusion&lllyasviel/ControlNet&openai/whisper&facebookresearch/llama&databrickslabs/dolly&tatsu-lab/stanford_alpaca&nomic-ai/gpt4all&Stability-AI/StableLM",
+        path: "https://issue-history.twenty.com/#CompVis/stable-diffusion&lllyasviel/ControlNet&openai/whisper&facebookresearch/llama&databrickslabs/dolly&tatsu-lab/stanford_alpaca&nomic-ai/gpt4all&Stability-AI/StableLM",
       },
       {
         title: "Llama Ecosystem",
-        path: "https://star-history.com/blog/llama2",
+        path: "https://issue-history.twenty.com/blog/llama2",
       },
       {
         title: "GPT Ecosystem",
-        path: "https://star-history.com/blog/star-history-monthly-pick-202303",
+        path: "https://issue-history.twenty.com/blog/star-history-monthly-pick-202303",
       },
       {
         title: "Coding Assistant",
-        path: "https://star-history.com/blog/coding-ai",
+        path: "https://issue-history.twenty.com/blog/coding-ai",
       },
     ],
   },
@@ -67,11 +67,11 @@ const blogSectionList = [
     linkList: [
       {
         title: "Database DevOps",
-        path: "https://star-history.com/#bytebase/bytebase&liquibase/liquibase&flyway/flyway",
+        path: "https://issue-history.twenty.com/#bytebase/bytebase&liquibase/liquibase&flyway/flyway",
       },
       {
         title: "Workflow Orchestration",
-        path: "https://star-history.com/#temporalio/temporal&apache/dolphinscheduler&apache/airflow&quartz-scheduler/quartz&netflix/conductor",
+        path: "https://issue-history.twenty.com/#temporalio/temporal&apache/dolphinscheduler&apache/airflow&quartz-scheduler/quartz&netflix/conductor",
       },
     ],
   },
@@ -80,47 +80,47 @@ const blogSectionList = [
     linkList: [
     {
         title: "2023 Oct (AI for Postgres)",
-        path: "https://star-history.com/blog/ai-for-postgres",
+        path: "https://issue-history.twenty.com/blog/ai-for-postgres",
       },
       {
         title: "2023 Sept (Coding AI)",
-        path: "https://star-history.com/blog/coding-ai",
+        path: "https://issue-history.twenty.com/blog/coding-ai",
       },
       {
         title: "2023 Aug (CLI tool for LLMs)",
-        path: "https://star-history.com/blog/cli-tool-for-llm",
+        path: "https://issue-history.twenty.com/blog/cli-tool-for-llm",
       },
       {
         title: "2023 July (Llama 2 Edition)",
-        path: "https://star-history.com/blog/llama2",
+        path: "https://issue-history.twenty.com/blog/llama2",
       },
       {
         title: "2023 June",
-        path: "https://star-history.com/blog/star-history-monthly-pick-202306",
+        path: "https://issue-history.twenty.com/blog/star-history-monthly-pick-202306",
       },
       {
         title: "2023 May",
-        path: "https://star-history.com/blog/star-history-monthly-pick-202305",
+        path: "https://issue-history.twenty.com/blog/star-history-monthly-pick-202305",
       },
       {
         title: "2023 Apr",
-        path: "https://star-history.com/blog/star-history-monthly-pick-202304",
+        path: "https://issue-history.twenty.com/blog/star-history-monthly-pick-202304",
       },
       {
         title: "2023 Mar (ChatGPT Edition)",
-        path: "https://star-history.com/blog/star-history-monthly-pick-202303",
+        path: "https://issue-history.twenty.com/blog/star-history-monthly-pick-202303",
       },
       {
         title: "2023 Feb",
-        path: "https://star-history.com/blog/star-history-monthly-pick-202302",
+        path: "https://issue-history.twenty.com/blog/star-history-monthly-pick-202302",
       },
       {
         title: "2023 Jan",
-        path: "https://star-history.com/blog/star-history-monthly-pick-202301",
+        path: "https://issue-history.twenty.com/blog/star-history-monthly-pick-202301",
       },
       {
         title: "2022 Dec",
-        path: "https://star-history.com/blog/star-history-monthly-pick-202212",
+        path: "https://issue-history.twenty.com/blog/star-history-monthly-pick-202212",
       },
     ],
   },
@@ -129,19 +129,19 @@ const blogSectionList = [
     linkList: [
       {
         title: "Data, Infra & DevTools",
-        path: "https://star-history.com/blog/star-history-yearly-pick-2022-data-infra-devtools",
+        path: "https://issue-history.twenty.com/blog/star-history-yearly-pick-2022-data-infra-devtools",
       },
       {
         title: "Platform Engineering",
-        path: "https://star-history.com/blog/star-history-open-source-2022-platform-engineering",
+        path: "https://issue-history.twenty.com/blog/star-history-open-source-2022-platform-engineering",
       },
       {
         title: "Open-Source Alternatives",
-        path: "https://star-history.com/blog/star-history-open-source-2022-open-source-alternatives",
+        path: "https://issue-history.twenty.com/blog/star-history-open-source-2022-open-source-alternatives",
       },
       {
         title: "Front-end",
-        path: "https://star-history.com/blog/star-history-yearly-pick-2022-frontend",
+        path: "https://issue-history.twenty.com/blog/star-history-yearly-pick-2022-frontend",
       },
     ],
   },

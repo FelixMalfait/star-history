@@ -1,4 +1,4 @@
-*This is the seventh issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the seventh issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -34,6 +34,6 @@ One of the reasons the Clipboard Project can offer an unlimited history is becau
 
 Unlike all other non-trivial clipboard managers out there, the Clipboard Project works entirely in the terminal. You can run a “cb copy” command just as if you were clicking “copy” in a web browser. However, you don’t actually have to use it in the terminal. If you’re into writing scripts, then you can instantly copy the output of something for use later, or use it like a buffer. And if you’re more into the traditional graphical manager, then the Clipboard Project offers a JSON API that you can use to serve up the same content as before – to anything that can speak JSON.
 
-## Star History
+## Issue History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Slackadays/Clipboard&type=Date)](https://star-history.com/#Slackadays/Clipboard&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=Slackadays/Clipboard&type=Date)](https://issue-history.twenty.com/#Slackadays/Clipboard&Date)

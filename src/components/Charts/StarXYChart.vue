@@ -53,9 +53,9 @@ const drawStarChart = (data: XYChartData) => {
     XYChart(
       svgElRef.value,
       {
-        title: "Star History",
+        title: "Issue History",
         xLabel: props.chartMode === "Timeline" ? "Timeline" : "Date",
-        yLabel: "GitHub Stars",
+        yLabel: "GitHub Issues & PRs",
         data: {
           datasets: data.datasets,
         },

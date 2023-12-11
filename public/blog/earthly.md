@@ -1,4 +1,4 @@
-*This is the thirteenth issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the thirteenth issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -20,7 +20,7 @@ Remote build runners can be [self-hosted](https://docs.earthly.dev/docs/remote-r
 
 More than 1,000,000 builds are run on Earthly every month, and [its repo](https://github.com/earthly/earthly) has just under 10,000 stars on GitHub at the time of this writing.
 
-[![Earthly's Star History Chart](https://api.star-history.com/svg?repos=earthly/earthly&type=Date)](https://api.star-history.com/svg?repos=earthly/earthly&type=Date)
+[![Earthly's Issue History Chart](https://api.issue-history.twenty.com/svg?repos=earthly/earthly&type=Date)](https://api.issue-history.twenty.com/svg?repos=earthly/earthly&type=Date)
 
 As such Earthly is used broadly by many different roles. That said, the primary users of Earthly are Software Engineers, DevOps Engineers, Platform Engineers, Machine Learning Engineers, and their corresponding teams. Some of Earthly's most well-known users are [Zapier](https://zapier.com/), [Roche](https://www.roche.com/), [ExpressVPN](https://www.expressvpn.com/), [Namely](https://www.namely.com/), and [IOHK](https://iohk.io/).
 

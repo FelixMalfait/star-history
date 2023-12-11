@@ -1,4 +1,4 @@
-# Star History Monthly | Open-source AI Extensions for Postgres
+# Issue History Monthly | Open-source AI Extensions for Postgres
 
 Postgres was named the most popular database by the [2023 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2023/#technology), taking over the crown from MySQL. Why, you ask? We believe that a major factor comes down to Postgres [extensions](https://www.postgresql.org/docs/current/sql-createextension.html). Thanks to the extensible architecture and the fact that it's still a community-owned project, the Postgres ecosystem has been nothing but thriving lately.
 
@@ -33,7 +33,7 @@ If you don't have fancy ML workloads (because not all of us are AI giants) in yo
 
 *Side note #1: They got another open-source project under the organization: [PgCat](https://github.com/postgresml/pgcat), a Postgres pooler, which was first released back in February, 2022. Interesting to see them pivot to the more sexy topic of AI.*
 
-*Side note #2: PostgresML was actually* [*featured on the starlet issue*](https://star-history.com/blog/postgresml) *a while back, and that kinda gave me the inspo for this issue.*
+*Side note #2: PostgresML was actually* [*featured on the starlet issue*](https://issue-history.twenty.com/blog/postgresml) *a while back, and that kinda gave me the inspo for this issue.*
 
 ## MADlib
 
@@ -77,7 +77,7 @@ We've seen a lot this year: the tech world shifting towards AI and looking for a
 
 ---
 
-## Star History Monthly Previous Editions
+## Issue History Monthly Previous Editions
 
 - [Coding AI](/blog/coding-ai)
 - [CLI Tools for Working with LLMs](/blog/cli-tool-for-llm)

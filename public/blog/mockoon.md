@@ -1,4 +1,4 @@
-*This is the third issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the third issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -56,7 +56,7 @@ In March 2021, I quit my job to focus full-time on the project. I'm now working 
 
 Fast forward six years, dozens of articles and tutorials written, tens of thousands of active users, and more than 400k downloads Mockoon is still there and growing!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mockoon/mockoon&type=Date)](https://star-history.com/#mockoon/mockoon&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=mockoon/mockoon&type=Date)](https://issue-history.twenty.com/#mockoon/mockoon&Date)
 
 ## Roadmap
 

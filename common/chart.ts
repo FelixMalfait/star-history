@@ -3,7 +3,7 @@ import { ChartMode, RepoStarData, RepoData } from "../types/chart";
 import api from "./api";
 import utils from "./utils";
 
-export const DEFAULT_MAX_REQUEST_AMOUNT = 15;
+export const DEFAULT_MAX_REQUEST_AMOUNT = 150;
 
 const STAR_HISTORY_LOGO_URL =
   "https://avatars.githubusercontent.com/u/124480067";
@@ -37,7 +37,7 @@ export const getReposStarData = async (
         message = "Access Token Unauthorized";
         status = 401;
       } else if (Array.isArray(error?.data) && error.data?.length === 0) {
-        message = `Repo ${repo} has no star history`;
+        message = `Repo ${repo} has no Issue History`;
         status = 501;
       } else {
         message = "Some unexpected error happened, try again later";
@@ -109,7 +109,7 @@ export const getRepoData = async (
         message = "Access Token Unauthorized";
         status = 401;
       } else if (Array.isArray(error?.data) && error.data?.length === 0) {
-        message = `Repo ${repo} has no star history`;
+        message = `Repo ${repo} has no Issue History`;
         status = 501;
       } else {
         message = "Some unexpected error happened, try again later";

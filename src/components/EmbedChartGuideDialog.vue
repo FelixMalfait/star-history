@@ -73,9 +73,9 @@ const singleRepo = computed(() => {
   }
 });
 const embedCode = computed(() => {
-  return `## Star History
+  return `## Issue History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=${store.repos.join(
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=${store.repos.join(
     ","
   )}&type=${store.chartMode})](${window.location.href})
 `;

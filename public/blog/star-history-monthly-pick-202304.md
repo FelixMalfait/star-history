@@ -1,4 +1,4 @@
-# Star History Monthly Pick | April 2023
+# Issue History Monthly Pick | April 2023
 
 AI is still the trend of April. But amidst the AICG wave, we still managed to locate some interesting projects that are not directly related to ChatGPT / LLM / AI / ML, kudos to us!
 

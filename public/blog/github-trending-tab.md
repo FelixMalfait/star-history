@@ -19,9 +19,9 @@ Developers are often polarized and strongly opinionated. You are always pissing 
 
 And apparently, the GitHub folks don’t have enough capacity to clean up the weed. The GitHub Trending algorithm is indeed flawed, but abruptly shutting down the entire service seems like throwing the bath water out with the baby.
 
-## Star History
+## Issue History
 
-star-history.com runs a Twitter account [@StartHistoryHQ](https://twitter.com/starhistoryhq) posting interesting GitHub repos every day.
+issue-history.twenty.com runs a Twitter account [@StartHistoryHQ](https://twitter.com/starhistoryhq) posting interesting GitHub repos every day.
 
 ![star-history](/blog/assets/github-trending-tab/star-history.webp)
 

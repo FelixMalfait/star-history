@@ -9,11 +9,11 @@ interface Route {
 const staticRoutes: Route[] = [
   {
     url: "/",
-    name: "Star History",
+    name: "Issue History",
   },
   {
     url: "/embed",
-    name: "Star History",
+    name: "Issue History",
   },
   {
     url: "/blog",
@@ -42,7 +42,7 @@ const generateSitemap = async () => {
   const routes = [...staticRoutes];
   const blogRoutes = await getBlogsRoutes();
   routes.push(...blogRoutes);
-  const baseUrl = "https://star-history.com";
+  const baseUrl = "https://issue-history.twenty.com";
   const routeXMLTags: string[] = [];
 
   for (const route of routes) {

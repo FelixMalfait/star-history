@@ -1,22 +1,6 @@
 <template>
   <div class="w-full px-3 shrink-0 flex flex-col justify-start items-center">
     <div
-      class="w-auto mx-auto mt-6 mb-2 flex flex-row justify-center items-center flex-wrap"
-      :class="state.latestBlog ?? 'invisible'"
-    >
-      <span
-        class="px-2 -mt-px leading-7 rounded mr-2 text-sm bg-green-100 text-green-600 font-medium"
-        >What's new</span
-      >
-      <a
-        class="text-gray-700 hover:underline"
-        :href="`/blog/${state.latestBlog?.slug}`"
-      >
-        {{ state.latestBlog?.title }}
-        <i class="fas fa-chevron-right mr-1 text-gray-500 text-sm"></i>
-      </a>
-    </div>
-    <div
       class="w-auto sm:w-full grow max-w-3xl 2xl:max-w-4xl mt-4 flex flex-row justify-center items-center shadow-inner border border-solid border-dark rounded"
     >
       <input
@@ -37,7 +21,7 @@
         :class="isFetching ? 'cursor-wait' : ''"
         @click="handleAddRepoBtnClick"
       >
-        View star history
+        View issue history
       </button>
     </div>
     <!-- repo list -->

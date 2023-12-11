@@ -1,4 +1,4 @@
-*This is the eleventh issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the eleventh issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -18,7 +18,7 @@ libSQL builds on the solid foundation of SQLite and adds things like:
 
 libSQL was created and is maintained by the team behind [Turso](https://turso.tech), but it has a long tail of [contributors](https://github.com/tursodatabase/libsql/graphs/contributors) and is growing in popularity rapidly:
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tursodatabase/libsql,sqlite/sqlite&type=Date)](https://star-history.com/#tursodatabase/libsql&sqlite/sqlite&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=tursodatabase/libsql,sqlite/sqlite&type=Date)](https://issue-history.twenty.com/#tursodatabase/libsql&sqlite/sqlite&Date)
 
 ## Using libSQL
 

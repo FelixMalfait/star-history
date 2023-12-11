@@ -1,1 +1,1 @@
-# Chrome extension for Star History
+# Chrome extension for Issue History

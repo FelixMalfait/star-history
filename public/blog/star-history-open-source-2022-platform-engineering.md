@@ -1,4 +1,4 @@
-# Star History Open Source Best of 2022 | Platform Engineering
+# Issue History Open Source Best of 2022 | Platform Engineering
 
 From [What is platform engineering](https://platformengineering.org/blog/what-is-platform-engineering):
 > Platform engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud-native era
@@ -7,7 +7,7 @@ Platform Engineering continues to rise in popularity in 2022 and is also feature
 
 ![gartner-report](/blog/assets/yearly-pick-platform-engineering-2022/gartner-report.webp)
 
-In this post, Star History picks out 10 open-source projects that served as the building blocks for Platform Engineering.
+In this post, Issue History picks out 10 open-source projects that served as the building blocks for Platform Engineering.
 
 ## Backstage
 
@@ -143,9 +143,9 @@ The above projects will constitute a pretty solid platform engineering backbone,
 
 ---
 
-This is part of Star History Open Source 2022 series, you can continue with:
+This is part of Issue History Open Source 2022 series, you can continue with:
 
-This is part of Star History Open Source 2022 series, you can continue with:
+This is part of Issue History Open Source 2022 series, you can continue with:
 
 1. [Open Source Best of 2022 - Front-end](/blog/star-history-yearly-pick-2022-frontend)
 1. [Open Source Best of 2022 - Data, Infra & DevTools](/blog/star-history-yearly-pick-2022-data-infra-devtools)

@@ -1,4 +1,4 @@
-*This is the fourth issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the fourth issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -67,9 +67,9 @@ Some popular & award-winning apps made w/ **chatgpt.js** include:
 
 ## Star growth
 
-**chatgpt.js** is still a very young lib, but as shown by the Star History chart, it had a stunning growth period during a span of mere weeks:
+**chatgpt.js** is still a very young lib, but as shown by the Issue History chart, it had a stunning growth period during a span of mere weeks:
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kudoai/chatgpt.js&type=Date)](https://star-history.com/#kudoai/chatgpt.js&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=kudoai/chatgpt.js&type=Date)](https://issue-history.twenty.com/#kudoai/chatgpt.js&Date)
 
 Two main events can be attributed with causing this astonishing growth spurt:
 

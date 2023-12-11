@@ -1,8 +1,8 @@
-# Star History Open Source Best of 2022 | Data, Infra & DevTools
+# Issue History Open Source Best of 2022 | Data, Infra & DevTools
 
-Following up on our previous roundup of [Top Front-end open-source projects in 2022](/blog/star-history-yearly-pick-2022-frontend), Star History will round up the open-source projects that stood out in the **Data, Infra, and DevTools** section in 2022.
+Following up on our previous roundup of [Top Front-end open-source projects in 2022](/blog/star-history-yearly-pick-2022-frontend), Issue History will round up the open-source projects that stood out in the **Data, Infra, and DevTools** section in 2022.
 
-If you didn’t know,  [star-history.com](http://star-history.com) is a place to view and compare the star history of GitHub repos. We are proud to say that it is the de facto place people turn to for GitHub stars: it is, after all, the first (and second) result on Google. 😆
+If you didn’t know,  [issue-history.twenty.com](http://issue-history.twenty.com) is a place to view and compare the Issue History of GitHub repos. We are proud to say that it is the de facto place people turn to for GitHub stars: it is, after all, the first (and second) result on Google. 😆
 
 ![google-result](/blog/assets/yearly-pick-data-infra-devtools-2022/google-result.webp)
 
@@ -130,7 +130,7 @@ Tier has a top-level design for how to implement pricing that allows for changes
 
 ![tier-priceops](/blog/assets/yearly-pick-data-infra-devtools-2022/tier-priceops.webp)
 
-For Star History, our goal is to discover interesting and inspiring projects. The aforementioned projects are not household names in the open-source community (yet), but each has great potential since they are tackling genuine issues with novel ideas. We see that the **Data & Infra & DevTools** section can be divided into two main categories:
+For Issue History, our goal is to discover interesting and inspiring projects. The aforementioned projects are not household names in the open-source community (yet), but each has great potential since they are tackling genuine issues with novel ideas. We see that the **Data & Infra & DevTools** section can be divided into two main categories:
 
 - Vertical innovation: database engines being the most popular segment, such as DuckDB and Neon.
 - Horizontal unification and standardization:
@@ -147,7 +147,7 @@ We are sure these projects will perform in the coming years and we can’t wait 
 
 ---
 
-This is part of Star History Open Source 2022 series, you can continue with:
+This is part of Issue History Open Source 2022 series, you can continue with:
 
 1. [Open Source Best of 2022 - Front-end](/blog/star-history-yearly-pick-2022-frontend)
 1. [Open Source Best of 2022 - Platform Engineering](/blog/star-history-open-source-2022-platform-engineering)

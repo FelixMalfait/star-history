@@ -1,4 +1,4 @@
-*This is the sixth issue of The Starlet List. If you want to prompt your open source project on star-history.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
+*This is the sixth issue of The Starlet List. If you want to prompt your open source project on issue-history.twenty.com for free, please check out our [announcement](/blog/list-your-open-source-project).*
 
 ---
 
@@ -31,9 +31,9 @@ Hoppscotch is packed with features to help developers and testers to work at pea
 
 Hoppscotch is one of the most popular open-source repositories and the community has been their backbone from day one. Thanks to the community they’ve reached over 54,000+ stars on GitHub!
 
-### Star History
+### Issue History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hoppscotch/hoppscotch&type=Date)](https://star-history.com/#hoppscotch/hoppscotch&Date)
+[![Issue History Chart](https://api.issue-history.twenty.com/svg?repos=hoppscotch/hoppscotch&type=Date)](https://issue-history.twenty.com/#hoppscotch/hoppscotch&Date)
 
 ## The road ahead
 
