@@ -112,7 +112,7 @@ const startServer = async () => {
         {
           title: "Issue History",
           xLabel: type === "Date" ? "Date" : "Timeline",
-          yLabel: "GitHub Issues & PRs",
+          yLabel: "Issues & PRs closed",
           data: convertDataToChartData(repoData, type),
           showDots: false,
           transparent: transparent.toLowerCase() === "true",

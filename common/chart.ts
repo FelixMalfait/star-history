@@ -3,7 +3,7 @@ import { ChartMode, RepoStarData, RepoData } from "../types/chart";
 import api from "./api";
 import utils from "./utils";
 
-export const DEFAULT_MAX_REQUEST_AMOUNT = 150;
+export const DEFAULT_MAX_REQUEST_AMOUNT = 600;
 
 const STAR_HISTORY_LOGO_URL =
   "https://avatars.githubusercontent.com/u/124480067";

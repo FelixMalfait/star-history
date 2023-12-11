@@ -55,7 +55,7 @@ const drawStarChart = (data: XYChartData) => {
       {
         title: "Issue History",
         xLabel: props.chartMode === "Timeline" ? "Timeline" : "Date",
-        yLabel: "GitHub Issues & PRs",
+        yLabel: "Issues & PRs closed",
         data: {
           datasets: data.datasets,
         },
